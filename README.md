@@ -20,9 +20,6 @@ I'm a junior ASP.Net Core MVC developer passionate about building web applicatio
 - ![MudBlazor](https://img.shields.io/badge/-MudBlazor-1E88E5?logo=blazor&logoColor=white&style=flat)
 - ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white&style=flat)
 
-## 💻 Projects
-- [Project 1](https://github.com/ShahFaisal9351/project1): A brief description of what this project does.
-- [Project 2](https://github.com/ShahFaisal9351/project2): A brief description of what this project does.
 
 ## 📫 How to Reach Me
 - Email: [shahfaisal9351@gmail.com](mailto:shahfaisal9351@gmail.com)
