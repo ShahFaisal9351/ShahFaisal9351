@@ -26,7 +26,7 @@ I'm a junior ASP.Net Core MVC developer passionate about building web applicatio
 
 ## 📫 How to Reach Me
 - Email: [shahfaisal9351@gmail.com](mailto:shahfaisal9351@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [https://www.linkedin.com/in/shah-faisal-564717353](https://www.linkedin.com/in/shah-faisal-564717353)
 
 ## 📈 GitHub Stats
 ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahFaisal9351&show_icons=true&theme=radical)
