@@ -25,7 +25,7 @@ I'm a junior ASP.Net Core MVC developer passionate about building web applicatio
 - [Project 2](https://github.com/ShahFaisal9351/project2): A brief description of what this project does.
 
 ## 📫 How to Reach Me
-- Email: shahfaisal9351@gmail.com](mailto:shahfaisal9351@gmail.com)
+- Email: [shahfaisal9351@gmail.com](mailto:shahfaisal9351@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 ## 📈 GitHub Stats
